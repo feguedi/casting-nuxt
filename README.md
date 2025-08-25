@@ -2,13 +2,13 @@
 
 Versión en Nuxt 4 de formulario de casting para Universidad Mondragón México.
 
-## Nuxt Minimal Starter
+## Arranque inicial en Nuxt
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Vea la [documentación de Nuxt](https://nuxt.com/docs/getting-started/introduction) para saber más.
 
 ### Setup
 
-Make sure to install dependencies:
+Asegúrese de tener todas las dependencias instaladas:
 
 ```bash
 # npm
@@ -21,9 +21,9 @@ pnpm install
 yarn install
 ```
 
-### Development Server
+### Servidor de desarrollo
 
-Start the development server on `http://localhost:3000`:
+Inicie el servidor de desarrollo en `http://localhost:3000`:
 
 ```bash
 # npm
@@ -36,9 +36,9 @@ pnpm dev
 yarn dev
 ```
 
-### Production
+### Producción
 
-Build the application for production:
+Construya la aplicación de producción:
 
 ```bash
 # npm
@@ -51,7 +51,7 @@ pnpm build
 yarn build
 ```
 
-Locally preview production build:
+Puede previsualizar la aplicación de producción:
 
 ```bash
 # npm
@@ -65,4 +65,4 @@ yarn preview
 
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Lea la [documentación de despliegue](https://nuxt.com/docs/getting-started/deployment) para más información.
